@@ -25,7 +25,7 @@ function App() {
               <main>
                 <a onClick={() => setCurrentPage("guessHouse")}>
                   <div className="card">
-                    <img src="public/imgs/GuessHouseBackground.png" />
+                    <img src="imgs/GuessHouseBackground.png" />
                     <div className="card-content">
                       <h2>Guess House</h2>
                       <p>
@@ -43,7 +43,7 @@ function App() {
               <main>
                 <a onClick={() => setCurrentPage("characterList")}>
                   <div className="card">
-                    <img src="public/imgs/Harrypottercharacters.jpg.png" />
+                    <img src="imgs/Harrypottercharacters.jpg.png" />
                     <div className="card-content">
                       <h2>Character List</h2>
                       <p>
