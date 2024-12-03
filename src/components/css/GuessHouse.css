@@ -64,28 +64,28 @@
 }
 
 .buttonGry {
-    background-image: url("imgs/Gry_background.png");
+    background-image: url("public/imgs/Gry_background.png");
     font-weight: bold;
     border: none;
     color: #ffcc80;
 }
 
 .buttonHuf {
-    background-image: url("imgs/Huf_background.png");
+    background-image: url("public/imgs/Huf_background.png");
     font-weight: bold;
     border: none;
     color: #ffe8a3;
 }
 
 .buttonRav {
-    background-image: url("imgs/Rav_background.png");
+    background-image: url("public/imgs/Rav_background.png");
     font-weight: bold;
     border: none;
     color: #ffe0b2;
 }
 
 .buttonSly {
-    background-image: url("imgs/Sly_background.png");
+    background-image: url("public/imgs/Sly_background.png");
     font-weight: bold;
     border: none;
     color: #d2fff0;
