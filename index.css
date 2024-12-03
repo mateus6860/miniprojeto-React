@@ -7,7 +7,7 @@
 /* Index (Homepage) CSS */
 
 .body {
-  background-image: url("imgs/background_general2.png");
+  background-image: url("/imgs/background_general2.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
