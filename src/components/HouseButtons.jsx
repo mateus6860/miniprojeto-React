@@ -3,13 +3,13 @@ import React from "react";
 const HouseButtons = ({ onHouseClick, feedback, selectedHouse }) => {
 
     const houses1 = [
-        { name: "Gryffindor", img: "public/imgs/gryffindor.png", className: "buttonGry" },
-        { name: "Slytherin", img: "public/imgs/slytherin.png", className: "buttonSly" },
+        { name: "Gryffindor", img: "imgs/gryffindor.png", className: "buttonGry" },
+        { name: "Slytherin", img: "imgs/slytherin.png", className: "buttonSly" },
     ];
 
     const houses2 = [
-        { name: "Hufflepuff", img: "public/imgs/hufflepuff.png", className: "buttonHuf" },
-        { name: "Ravenclaw", img: "public/imgs/ravenclaw.png", className: "buttonRav" },
+        { name: "Hufflepuff", img: "imgs/hufflepuff.png", className: "buttonHuf" },
+        { name: "Ravenclaw", img: "imgs/ravenclaw.png", className: "buttonRav" },
     ];
 
     const getButtonClass = (house) => {
