@@ -6,7 +6,6 @@ import React, { useState } from "react";
 // Import das páginas principais
 import GuessHouse from "./components/GuessHouse";
 import CharacterList from "./components/CharacterList";
-import HomePage from "./components/HomePage";
 
 function App() {
   // State para ver página atual
@@ -61,8 +60,6 @@ function App() {
         return <GuessHouse />;
       case "characterList":
         return <CharacterList />;
-      default:
-        return <HomePage />;
     }
   };
 
